@@ -18,7 +18,7 @@ function App (){
         Hello  World! This is an alert message. 
       </Alert>}
       <Button color="primary" onClick={()=>{setalertVisibility(true)}}>
-        button
+        BUTTON
       </Button>
     </div>
   )
